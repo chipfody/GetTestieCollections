@@ -1,4 +1,4 @@
-package gettestie.src.main.java.rocks.zipcode;
+package rocks.zipcode;
 
 
 public class Person {
@@ -34,6 +34,7 @@ public class Person {
     public void setYearOfBirth(int newYearOfBirth) {
         yearOfBirth = newYearOfBirth;
     }
+
 
     /**
      * Return the birth year of this person.

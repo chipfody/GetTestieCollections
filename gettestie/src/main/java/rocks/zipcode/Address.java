@@ -1,5 +1,5 @@
-package gettestie.src.main.java.rocks.zipcode;
-
+package rocks.zipcode;
+//fixed package address per J
 public class Address {
     private String street;
     private String town;
